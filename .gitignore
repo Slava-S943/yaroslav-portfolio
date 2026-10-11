@@ -1,0 +1,15 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment variables and secrets
+.env*
+!.env.example
+
+# Vercel local files
+.vercel/
